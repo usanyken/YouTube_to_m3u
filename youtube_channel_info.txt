@@ -1,23 +1,23 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-凤凰卫视
+凤凰卫视  |香港||
 https://www.youtube.com/watch?v=xyyvJ_KgTlg
 
-CCTV4
+CCTV4  |中国||
 https://www.youtube.com/watch?v=QTz6avPD4Ns
 
-中天新闻
+中天新闻  |台湾||
 https://www.youtube.com/watch?v=_QbRXRnHMVY
 
-TVBS
+TVBS  |台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-东森新闻
+東森新聞  |台湾||
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-东森财经新闻
+東森財經新聞  |台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-卡塔尔半岛电视台Al Jazeera英语频道
+卡塔尔半岛电视台Al Jazeera英语频道  |英文||
 https://www.youtube.com/watch?v=GEumHK0hfdo
