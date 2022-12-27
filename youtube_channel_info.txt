@@ -1,7 +1,7 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-凤凰卫视资讯台  |香港||
+凤凰资讯  |香港||
 https://www.youtube.com/watch?v=xyyvJ_KgTlg
 
 CCTV4中文国际  |中国||
