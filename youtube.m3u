@@ -15,22 +15,22 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", CCTV4中文国际
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675319968/ei/QAbbY8WDJrOR2LYP87aaoAc/ip/172.177.106.98/id/QTz6avPD4Ns.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJvm09IIdvnuHX2B4oalH9f6WRkCke3ySNnOJf1duVniAiEAy6XDlHU9-AayDjmuuQuVUXOHHeG1ljsfKacIj6R_3sM%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 中天新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675319969/ei/QQbbY_vIDeuQ2LYPpKa12AM/ip/172.177.106.98/id/_QbRXRnHMVY.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDlk849B2p5ifeuuEb1fovRV9oQPB435Zal8cV6fiifkCIQCy7auQV9Tk6BoGkqXscHvNa0gdit7cDhnNpN9zz1HGFg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", TVBS新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675319969/ei/QQbbY_jaM5WO_9EP06-0sAQ/ip/172.177.106.98/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOQuC5yyJqCN3wIOPIHu-wTpPNlJjpxvNA_qMeNzUoauAiEAxDnLXJYqxsNxsrnewF75IrxsB4Et2AiWAEK44gTVk1k%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 東森新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675319970/ei/QgbbY8_yEpnLhwa4ppTYBw/ip/172.177.106.98/id/R2iMq5LKXco.4/source/yt_live_broadcast/requiressl/yes/tx/24451288/txs/24451286%2C24451287%2C24451288%2C24451289/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKkOa5cmBzmSrl3w2lNCcuDvOE5hgDYB1GdcbS9ectQLAiEArEgAc-68qMosyk4cqXBtPXOxM0Ul7Iz4h_Ha8frYE3M%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 東森財經新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675319971/ei/QgbbY9uUN8mO2LYPtI2myAs/ip/172.177.106.98/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKh7c9m51218TmX2fnQOM5GvEdWmIRnPPLvorHa3D1r1AiBnPW8_KKawc1GnMVUzaz-GhLHRvMp3aFTTRrOnOD7CaA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="英文" tvg-logo="" tvg-id="", 卡塔尔半岛电视台Al Jazeera英语频道
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675319971/ei/QwbbY7n7IIn48gT376y4BA/ip/172.177.106.98/id/GEumHK0hfdo.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANUCIrVnHca4_wPPsQqTNV8SB7vZAFOipDONfZnUQUmqAiEA9sS9hBqKwvezmJhCkbJb9f6-VK7VH7uYNF476DtoNWo%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 2023湾区春晚
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
