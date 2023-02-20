@@ -1,9 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-凤凰资讯  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
-
 CCTV4中文国际  |中国||
 https://www.youtube.com/watch?v=QTz6avPD4Ns
 
@@ -21,12 +18,3 @@ https://www.youtube.com/watch?v=WHEPzbFA3hw
 
 卡塔尔半岛电视台Al Jazeera英语频道  |英文||
 https://www.youtube.com/watch?v=GEumHK0hfdo
-
-2023湾区春晚 |中国||
-https://www.youtube.com/watch?v=fiqO-l90uTk
-
-2023湖南衛視春節聯歡晚會 |中国||
-https://www.youtube.com/watch?v=izZ1kU2CYuI
-
-春满东方·2023东方卫视春晚 |中国||
-https://www.youtube.com/watch?v=3DvYCiPuWjI
