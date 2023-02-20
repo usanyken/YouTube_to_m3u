@@ -1,20 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-CCTV4中文国际  |中国||
-https://www.youtube.com/watch?v=QTz6avPD4Ns
-
 中天新闻  |台湾||
 https://www.youtube.com/watch?v=_QbRXRnHMVY
-
-TVBS新闻台  |台湾||
-https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 東森新聞  |台湾||
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
 東森財經新聞  |台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
-
-卡塔尔半岛电视台Al Jazeera英语频道  |英文||
-https://www.youtube.com/watch?v=GEumHK0hfdo
