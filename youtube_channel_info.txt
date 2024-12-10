@@ -1,5 +1,23 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
+鳳凰衛視資訊台
+https://www.youtube.com/watch?v=HFib76ySpbU
+
+中天新聞
+https://www.youtube.com/watch?v=vr3XyVCR4T0
+
+TVBS新聞
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+東森新聞
+https://www.youtube.com/watch?v=V1p33hqPrUk
+
+台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+投資看非凡
+https://www.youtube.com/watch?v=NHQDx8vCrC4
