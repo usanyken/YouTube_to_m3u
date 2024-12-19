@@ -1,29 +1,29 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-鳳凰衛視資訊台
+鳳凰衛視資訊台 | YouTube | |
 https://www.youtube.com/watch?v=HFib76ySpbU
 
-中天新聞
+中天新聞 | YouTube | |
 https://www.youtube.com/watch?v=vr3XyVCR4T0
 
-TVBS新聞
+TVBS新聞 | YouTube | |
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-東森新聞
+東森新聞 | YouTube | |
 https://www.youtube.com/watch?v=V1p33hqPrUk
 
-台視新聞
+台視新聞 | YouTube | |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-中視新聞
+中視新聞 | YouTube | |
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-投資看非凡
+投資看非凡 | YouTube | |
 https://www.youtube.com/watch?v=NHQDx8vCrC4
 
-三立新聞
+三立新聞 | YouTube | |
 https://www.youtube.com/watch?v=MV9mI0GChwo
 
-三立iNEWS
+三立iNEWS | YouTube | |
 https://www.youtube.com/watch?v=pF507BLtbqU
