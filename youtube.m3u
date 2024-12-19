@@ -11,28 +11,28 @@
 #########################################################################
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 鳳凰衛視資訊台
-https://www.youtube.com/watch?v=HFib76ySpbU
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-中天新聞
-https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 中天新聞
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-TVBS新聞
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", TVBS新聞
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-東森新聞
-https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 東森新聞
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-台視新聞
-https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 台視新聞
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-中視新聞
-https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 中視新聞
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-投資看非凡
-https://www.youtube.com/watch?v=NHQDx8vCrC4
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 投資看非凡
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-三立新聞
-https://www.youtube.com/watch?v=MV9mI0GChwo
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 三立新聞
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
 
-三立iNEWS
-https://www.youtube.com/watch?v=pF507BLtbqU
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 三立iNEWS
+https://raw.githubusercontent.com/usanyken/YouTube_to_m3u/refs/heads/main/youtube.m3u
